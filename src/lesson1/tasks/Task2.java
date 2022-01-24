@@ -6,7 +6,7 @@ Output question “How are you?“.
 Define string variable answer.
 Read the value answer and output: “You are (answer)".
  */
-package tasks;
+package lesson1.tasks;
 
 import java.io.BufferedReader;
 import java.io.IOException;

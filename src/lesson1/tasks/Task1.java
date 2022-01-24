@@ -10,7 +10,7 @@ a / b.
 Output obtained results.
 
  */
-package tasks;
+package lesson1.tasks;
 
 import java.io.BufferedReader;
 import java.io.IOException;
@@ -29,6 +29,10 @@ public class Task1 {
         System.out.println("a+b=" + (a + b));
         System.out.println("a-b=" + (a - b));
         System.out.println("a*b=" + (a * b));
-        System.out.println("a/b=" + (double) a / (double) b);
+        if (b != 0) {
+            System.out.println("a/b=" + (a / b));
+        } else {
+            System.out.println("Can't divide by zero!");
+        }
     }
 }
