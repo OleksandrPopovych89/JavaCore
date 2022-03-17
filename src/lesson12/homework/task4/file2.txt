@@ -1,0 +1,5 @@
+Text has 9 lines.
+Longest line has 117 symbol.
+Longest line is: 
+At the moment I am working on the switching to the field of software development using the Java programming language.
+Popovych Oleksandr 11.09.1989

@@ -1,0 +1,9 @@
+My name is Popovych Oleksandr.
+I was born 11.09.1989 in the Kyiv city.
+Finished National University of Food Technology in 2012,
+speciality "Thermal power engineer".
+In the same year, I got a job as an engineer-designer of boiler equipment in a company "Energodesign"
+where I worked until 2015.
+Then I work from 2015 to the present day in company "Energotraid Kyiv" as an engineer designer of engineering
+heating and water supply systems for cottage construction.
+At the moment I am working on the switching to the field of software development using the Java programming language.
