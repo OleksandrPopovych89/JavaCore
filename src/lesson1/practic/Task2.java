@@ -1,4 +1,4 @@
-/*
+/**
 Create Console Application project in Java.
 In method main() write code for solving next tasks:
 
@@ -6,7 +6,7 @@ Output question “How are you?“.
 Define string variable answer.
 Read the value answer and output: “You are (answer)".
  */
-package lesson1.tasks;
+package lesson1.practic;
 
 import java.io.BufferedReader;
 import java.io.IOException;
