@@ -1,4 +1,4 @@
-/*
+/**
 Create Console Application project in Java.
 In method main() write code for solving next tasks:
 
@@ -10,7 +10,7 @@ a / b.
 Output obtained results.
 
  */
-package lesson1.tasks;
+package lesson1.practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
