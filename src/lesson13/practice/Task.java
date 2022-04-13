@@ -3,7 +3,7 @@
  * <p>
  * In the next method calculate amount of characters in the string. Need to find logic errors
  */
-package lesson13.practic;
+package lesson13.practice;
 
 import java.io.BufferedReader;
 import java.io.IOException;
