@@ -16,9 +16,14 @@ public class Task {
         String character = "";
         BufferedReader br = new BufferedReader(new InputStreamReader(System.in));
         System.out.println("Input word");
-        testWord = br.readLine();
-        System.out.println("Input character");
-        character = br.readLine();
+        try {
+            testWord = br.readLine();
+            System.out.println("Input character");
+            character = br.readLine();
+        } catch (IOException e) {
+            throw new RuntimeException(e);
+        }
+
         for (int i = 0; i < testWord.length(); i++) {
             character = testWord.substring(1, 1);
             if (character.equals(character)) countCharacters++;
